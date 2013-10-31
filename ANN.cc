@@ -15,7 +15,8 @@ ANN::ANN(){
 }
 
 void ANN::createNodes(){
-/*--SETTING UP WEIGHTS--*/
+/*--NO SETTING UP WEIGHTS--*/
+
     inFile.open("weights.in"); //Open the weights file
     inFile >> numInput >> numHidden >> numOutput; //Grab the first three values for the number of nodes for each
 
