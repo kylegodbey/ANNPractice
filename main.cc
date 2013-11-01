@@ -8,7 +8,7 @@ int main()
     ANN PNUT;
     int selection(0);
     cout << "Hello! Where is the love. Would you like to run the ANN for a given input, or train the network?" << endl;
-    cout << "1. Run production network\n";
+    cout << "1. Run production network please\n";
     cout << "2. Train network\n> ";
     cin >> selection;
     if(selection==1){
