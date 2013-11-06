@@ -1,0 +1,45 @@
+0, 0, Header, 1, 2, 384
+1, 0, Start_track
+1, 0, Text_t, ""
+1, 0, Copyright_t, ""
+1, 0, Time_signature, 4, 2, 96, 8
+1, 0, Tempo, 1000000
+1, 0, End_track
+2, 0, Start_track
+2, 0, Instrument_name_t, "Piano"
+2, 0, Key_signature, 0, "major"
+2, 0, Program_c, 0, 0
+2, 0, Note_on_c, 0, 72, 64
+2, 384, Note_off_c, 0, 72, 0
+2, 384, Note_on_c, 0, 72, 64
+2, 768, Note_on_c, 0, 74, 64
+2, 768, Note_off_c, 0, 72, 0
+2, 1152, Note_off_c, 0, 74, 0
+2, 1152, Note_on_c, 0, 74, 64
+2, 1536, Note_on_c, 0, 75, 64
+2, 1536, Note_off_c, 0, 74, 0
+2, 1920, Note_off_c, 0, 75, 0
+2, 1920, Note_on_c, 0, 75, 64
+2, 2304, Note_on_c, 0, 77, 64
+2, 2304, Note_off_c, 0, 75, 0
+2, 2688, Note_off_c, 0, 77, 0
+2, 2688, Note_on_c, 0, 77, 64
+2, 3072, Note_on_c, 0, 79, 64
+2, 3072, Note_off_c, 0, 77, 0
+2, 3456, Note_off_c, 0, 79, 0
+2, 3456, Note_on_c, 0, 79, 64
+2, 3840, Note_on_c, 0, 77, 64
+2, 3840, Note_off_c, 0, 79, 0
+2, 4224, Note_off_c, 0, 77, 0
+2, 4224, Note_on_c, 0, 77, 64
+2, 4608, Note_on_c, 0, 75, 64
+2, 4608, Note_off_c, 0, 77, 0
+2, 4992, Note_on_c, 0, 74, 64
+2, 4992, Note_off_c, 0, 75, 0
+2, 5376, Note_on_c, 0, 72, 64
+2, 5376, Note_off_c, 0, 74, 0
+2, 5760, Note_off_c, 0, 72, 0
+2, 5760, Note_on_c, 0, 72, 64
+2, 6144, Note_off_c, 0, 72, 0
+2, 6144, End_track
+0, 0, End_of_file

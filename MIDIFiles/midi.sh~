@@ -1,0 +1,14 @@
+!#/bin/bash
+
+a=1
+b=0
+
+for i in *.mid; do
+
+ new=$(printf "%30d.mid" ${a})
+ 
+ ./midicsv ${new} b
+ let a=a+1 
+ let b=b+1
+
+done
