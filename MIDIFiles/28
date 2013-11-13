@@ -1,0 +1,107 @@
+0, 0, Header, 1, 3, 96
+1, 0, Start_track
+1, 0, Time_signature, 4, 2, 24, 8
+1, 0, End_track
+2, 0, Start_track
+2, 0, Tempo, 600000
+2, 0, Tempo, 600000
+2, 0, Tempo, 600000
+2, 0, End_track
+3, 0, Start_track
+3, 0, Title_t, "Channel #3"
+3, 0, Control_c, 2, 10, 64
+3, 0, Control_c, 2, 7, 100
+3, 0, Pitch_bend_c, 2, 8192
+3, 0, Control_c, 2, 101, 0
+3, 0, Control_c, 2, 100, 0
+3, 0, Control_c, 2, 6, 12
+3, 0, Control_c, 2, 10, 64
+3, 0, Control_c, 2, 7, 100
+3, 0, Pitch_bend_c, 2, 8192
+3, 0, Program_c, 2, 0
+3, 0, Control_c, 2, 91, 40
+3, 0, Control_c, 2, 93, 0
+3, 0, Control_c, 2, 101, 0
+3, 0, Control_c, 2, 100, 0
+3, 0, Control_c, 2, 6, 12
+3, 0, Control_c, 2, 10, 64
+3, 0, Control_c, 2, 7, 100
+3, 0, Pitch_bend_c, 2, 8192
+3, 0, Program_c, 2, 0
+3, 0, Control_c, 2, 91, 40
+3, 0, Control_c, 2, 93, 0
+3, 0, Control_c, 2, 101, 0
+3, 0, Control_c, 2, 100, 0
+3, 0, Control_c, 2, 6, 12
+3, 0, Control_c, 2, 10, 64
+3, 0, Control_c, 2, 7, 100
+3, 0, Pitch_bend_c, 2, 8192
+3, 0, Program_c, 2, 0
+3, 0, Control_c, 2, 91, 40
+3, 0, Control_c, 2, 93, 0
+3, 0, Note_on_c, 2, 60, 79
+3, 46, Note_off_c, 2, 60, 0
+3, 48, Note_on_c, 2, 62, 68
+3, 96, Program_c, 2, 0
+3, 96, Note_on_c, 2, 64, 77
+3, 99, Control_c, 2, 7, 100
+3, 99, Control_c, 2, 10, 64
+3, 100, Control_c, 2, 91, 40
+3, 100, Control_c, 2, 93, 0
+3, 101, Note_off_c, 2, 62, 0
+3, 144, Note_on_c, 2, 65, 74
+3, 153, Note_off_c, 2, 64, 0
+3, 192, Note_on_c, 2, 67, 82
+3, 196, Note_off_c, 2, 65, 0
+3, 240, Note_on_c, 2, 65, 72
+3, 242, Note_off_c, 2, 67, 0
+3, 288, Note_on_c, 2, 64, 78
+3, 289, Note_off_c, 2, 65, 0
+3, 336, Note_on_c, 2, 62, 74
+3, 344, Note_off_c, 2, 64, 0
+3, 384, Note_on_c, 2, 60, 82
+3, 386, Note_off_c, 2, 62, 0
+3, 478, Note_off_c, 2, 60, 0
+3, 480, Note_on_c, 2, 64, 81
+3, 576, Note_off_c, 2, 64, 0
+3, 576, Note_on_c, 2, 67, 76
+3, 672, Note_on_c, 2, 64, 75
+3, 677, Note_off_c, 2, 67, 0
+3, 768, Note_on_c, 2, 60, 77
+3, 772, Note_off_c, 2, 64, 0
+3, 912, Note_off_c, 2, 60, 0
+3, 960, Note_on_c, 2, 60, 80
+3, 1145, Note_off_c, 2, 60, 0
+3, 1344, Note_on_c, 2, 64, 78
+3, 1528, Note_off_c, 2, 64, 0
+3, 1728, Note_on_c, 2, 67, 75
+3, 1916, Note_off_c, 2, 67, 0
+3, 1920, Control_c, 2, 101, 0
+3, 1920, Control_c, 2, 100, 0
+3, 1920, Control_c, 2, 6, 12
+3, 1920, Control_c, 2, 10, 64
+3, 1920, Control_c, 2, 7, 100
+3, 1920, Pitch_bend_c, 2, 8192
+3, 1920, Program_c, 2, 0
+3, 1920, Control_c, 2, 91, 40
+3, 1920, Control_c, 2, 93, 0
+3, 1920, Control_c, 2, 101, 0
+3, 1920, Control_c, 2, 100, 0
+3, 1920, Control_c, 2, 6, 12
+3, 1920, Control_c, 2, 10, 64
+3, 1920, Control_c, 2, 7, 100
+3, 1920, Pitch_bend_c, 2, 8192
+3, 1920, Program_c, 2, 0
+3, 1920, Control_c, 2, 91, 40
+3, 1920, Control_c, 2, 93, 0
+3, 1920, Control_c, 2, 101, 0
+3, 1920, Control_c, 2, 100, 0
+3, 1920, Control_c, 2, 6, 12
+3, 1920, Control_c, 2, 10, 64
+3, 1920, Control_c, 2, 7, 100
+3, 1920, Pitch_bend_c, 2, 8192
+3, 1920, Program_c, 2, 0
+3, 1920, Control_c, 2, 91, 40
+3, 1920, Control_c, 2, 93, 0
+3, 1920, End_track
+0, 0, End_of_file
