@@ -7,7 +7,7 @@ for i in *.mid; do
 
  # new=$(printf "%0d.mid" ${a})
  
- ./midicsv ${i} ${b}
+ ./midicsv ${i} ~${b}
  #let a=a+1 
  let b=b+1
 
